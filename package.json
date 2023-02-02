@@ -1,0 +1,16 @@
+{
+  "name": "winapiusers",
+  "version": "0.0.0",
+  "description": "win users check",
+  "main": "app.js",
+  "private": true,
+  "dependencies": {
+    "bindings": "*",
+    "node-addon-api": "*",
+    "open": "*"
+  },
+  "scripts": {
+    "test": "node app.js"
+  },
+  "gypfile": true
+}
